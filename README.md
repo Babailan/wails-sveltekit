@@ -2,7 +2,7 @@
 
 ## About
 
-This is Wails Sveltekit template. read the official there some things to take in minds before continuing with this project stack. https://wails.io/docs/guides/sveltekit#3-important-notes
+This is Wails Sveltekit template. read the official documentation. there are things to keep in mind before continuing with this project stack. https://wails.io/docs/guides/sveltekit#3-important-notes
 
 ## Live Development
 
