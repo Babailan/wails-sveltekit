@@ -17,7 +17,7 @@ func main() {
 
 	// Create application with options
 	err := wails.Run(&options.App{
-		Title:  "film-cast",
+		Title:  "wails-sveltekit",
 		Width:  1024,
 		Height: 768,
 		AssetServer: &assetserver.Options{
